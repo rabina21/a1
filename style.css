@@ -1,0 +1,40 @@
+body {
+  margin: 0px;
+}
+.top {
+  background-color: green;
+  height: 100px;
+  max-width: 100%;
+  border: 1px solid black;
+}
+.middle-wrapper {
+  height: 600px;
+  width: 100%;
+  display: inline-block;
+}
+.left {
+  height: 600px;
+  width: 350px;
+  display: inline-block;
+  border: 1px solid black;
+}
+.middle {
+  height: 600px;
+  width: 600px;
+  display: inline-block;
+  border: 1px solid black;
+}
+
+.right {
+  height: 600px;
+  width: 350px;
+  padding-left: 100pxpx;
+  display: inline-block;
+  border: 1px solid black;
+}
+.bottom {
+  height: 100px;
+  width: 100%;
+  background-color: blue;
+  border: 1px solid black;
+}
